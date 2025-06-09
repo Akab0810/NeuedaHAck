@@ -1,7 +1,7 @@
 # AI Investor - AI-Powered Financial Advisor
 
 ## Overview
-AI Investor is a Django-based web application that serves as an AI-powered financial advisor. It provides personalized investment suggestions based on user profiles, helping users make informed financial decisions.
+AI Investor  a Django-based web application that functions as an AI-powered financial advisor. It delivers personalized investment recommendations tailored to individual user profiles, empowering users to make well-informed and strategic financial decisions
 
 ## Project Structure
 ```
