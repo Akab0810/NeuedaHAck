@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Integrated Function</title>
+</head>
+<body>
+    <h1>Run Integrated Function</h1>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Run Integration</button>
+    </form>
+    {% if result %}
+        <h2>Result:</h2>
+        <pre>{{ result }}</pre>
+    {% endif %}
+</body>
+</html>
