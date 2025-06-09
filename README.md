@@ -68,7 +68,9 @@ AI_Investor/
 - Based on the profile information, the application will provide personalized investment suggestions.
 
 ## AI/ML Logic
-The application includes an AI/ML module that analyzes user profiles and generates investment suggestions. This module is designed to adapt and improve over time based on user feedback and market trends.
+The application features an AI/ML-powered module that intelligently analyzes user profiles to generate personalized investment recommendations. This module is designed to continuously adapt and improve over time, leveraging user feedback and evolving market trends to enhance decision-making accuracy.
+
+Let me know if you'd like a more technical or business-focused tone!
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
