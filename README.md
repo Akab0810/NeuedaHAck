@@ -29,7 +29,9 @@ AI_Investor/
 
 ### Prerequisites
 - Python 3.x
-- pip (Python package installer)
+- python --version
+- pip install -r requirements.txt
+  
 
 ### Installation
 1. Clone the repository:
